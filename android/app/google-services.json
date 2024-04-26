@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788095359359",
+    "project_id": "medi-90cb0",
+    "storage_bucket": "medi-90cb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788095359359:android:d62693be683078e80c224a",
+        "android_client_info": {
+          "package_name": "com.example.hello_doc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpPoJ9CgLkMwJ6fw52awk9vqRSXOApns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
